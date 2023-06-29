@@ -1,0 +1,20 @@
+.about-container{
+background-color: #222;
+height: 100%;
+padding-bottom:112px;
+width: 100vw;
+}
+
+
+
+.about-data{
+    padding-top: 90px;
+    width: 600px;
+    margin-left: 430px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    color: white;
+}
